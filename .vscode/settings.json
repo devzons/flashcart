@@ -1,0 +1,22 @@
+{
+  "markdown.preview.fontSize": 15,
+  "terminal.integrated.fontSize": 17,
+  "workbench.fontAliasing": "antialiased",
+  "workbench.tree.indent": 12,
+  "javascript.format.semicolons": "remove",
+  "typescript.format.semicolons": "remove",
+  "editor.fontFamily": "Operator Mono Lig",
+  "editor.fontLigatures": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 4,
+  "editor.fontSize": 17,
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "python.pythonPath": "/usr/local/opt/python@3.8/bin/python3",
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true
+}
