@@ -16,7 +16,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "python.pythonPath": "/usr/local/opt/python@3.8/bin/python3",
-  "python.linting.pylintEnabled": false,
+  "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
-  "python.linting.flake8Enabled": true
+  "python.linting.flake8Enabled": false
 }
